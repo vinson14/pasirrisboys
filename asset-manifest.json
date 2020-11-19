@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pasirrisboys/static/css/main.b4bd2765.chunk.css",
+    "main.js": "/pasirrisboys/static/js/main.86301fa0.chunk.js",
+    "main.js.map": "/pasirrisboys/static/js/main.86301fa0.chunk.js.map",
+    "runtime-main.js": "/pasirrisboys/static/js/runtime-main.4738181f.js",
+    "runtime-main.js.map": "/pasirrisboys/static/js/runtime-main.4738181f.js.map",
+    "static/js/2.0bea2448.chunk.js": "/pasirrisboys/static/js/2.0bea2448.chunk.js",
+    "static/js/2.0bea2448.chunk.js.map": "/pasirrisboys/static/js/2.0bea2448.chunk.js.map",
+    "static/js/3.3cb0b83b.chunk.js": "/pasirrisboys/static/js/3.3cb0b83b.chunk.js",
+    "static/js/3.3cb0b83b.chunk.js.map": "/pasirrisboys/static/js/3.3cb0b83b.chunk.js.map",
+    "index.html": "/pasirrisboys/index.html",
+    "static/css/main.b4bd2765.chunk.css.map": "/pasirrisboys/static/css/main.b4bd2765.chunk.css.map",
+    "static/js/2.0bea2448.chunk.js.LICENSE.txt": "/pasirrisboys/static/js/2.0bea2448.chunk.js.LICENSE.txt",
+    "static/media/chimin.92fdd636.jpg": "/pasirrisboys/static/media/chimin.92fdd636.jpg",
+    "static/media/junhui.0e801f85.jpg": "/pasirrisboys/static/media/junhui.0e801f85.jpg",
+    "static/media/vinson.a1a4ae1c.jpg": "/pasirrisboys/static/media/vinson.a1a4ae1c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4738181f.js",
+    "static/js/2.0bea2448.chunk.js",
+    "static/css/main.b4bd2765.chunk.css",
+    "static/js/main.86301fa0.chunk.js"
+  ]
+}
