@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pasirrisboys/static/css/main.b4bd2765.chunk.css",
-    "main.js": "/pasirrisboys/static/js/main.d2f8e958.chunk.js",
-    "main.js.map": "/pasirrisboys/static/js/main.d2f8e958.chunk.js.map",
+    "main.js": "/pasirrisboys/static/js/main.b75b8ca2.chunk.js",
+    "main.js.map": "/pasirrisboys/static/js/main.b75b8ca2.chunk.js.map",
     "runtime-main.js": "/pasirrisboys/static/js/runtime-main.e33c3154.js",
     "runtime-main.js.map": "/pasirrisboys/static/js/runtime-main.e33c3154.js.map",
     "static/js/2.23e755c2.chunk.js": "/pasirrisboys/static/js/2.23e755c2.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.e33c3154.js",
     "static/js/2.23e755c2.chunk.js",
     "static/css/main.b4bd2765.chunk.css",
-    "static/js/main.d2f8e958.chunk.js"
+    "static/js/main.b75b8ca2.chunk.js"
   ]
 }
