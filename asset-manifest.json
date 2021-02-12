@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.6436b48c.chunk.css",
-    "main.js": "/static/js/main.ff4bc12b.chunk.js",
-    "main.js.map": "/static/js/main.ff4bc12b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e4adffba.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e4adffba.js.map",
-    "static/js/2.4d4eff1a.chunk.js": "/static/js/2.4d4eff1a.chunk.js",
-    "static/js/2.4d4eff1a.chunk.js.map": "/static/js/2.4d4eff1a.chunk.js.map",
-    "static/js/3.3cb0b83b.chunk.js": "/static/js/3.3cb0b83b.chunk.js",
-    "static/js/3.3cb0b83b.chunk.js.map": "/static/js/3.3cb0b83b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6436b48c.chunk.css.map": "/static/css/main.6436b48c.chunk.css.map",
-    "static/js/2.4d4eff1a.chunk.js.LICENSE.txt": "/static/js/2.4d4eff1a.chunk.js.LICENSE.txt",
-    "static/media/chimin.92fdd636.jpg": "/static/media/chimin.92fdd636.jpg",
-    "static/media/junhui.0e801f85.jpg": "/static/media/junhui.0e801f85.jpg",
-    "static/media/vinson.a1a4ae1c.jpg": "/static/media/vinson.a1a4ae1c.jpg"
+    "main.css": "/pasirrisboys/static/css/main.e0400130.chunk.css",
+    "main.js": "/pasirrisboys/static/js/main.7ccf50cf.chunk.js",
+    "main.js.map": "/pasirrisboys/static/js/main.7ccf50cf.chunk.js.map",
+    "runtime-main.js": "/pasirrisboys/static/js/runtime-main.2ab0aa8b.js",
+    "runtime-main.js.map": "/pasirrisboys/static/js/runtime-main.2ab0aa8b.js.map",
+    "static/js/2.36b78683.chunk.js": "/pasirrisboys/static/js/2.36b78683.chunk.js",
+    "static/js/2.36b78683.chunk.js.map": "/pasirrisboys/static/js/2.36b78683.chunk.js.map",
+    "static/js/3.7d35377e.chunk.js": "/pasirrisboys/static/js/3.7d35377e.chunk.js",
+    "static/js/3.7d35377e.chunk.js.map": "/pasirrisboys/static/js/3.7d35377e.chunk.js.map",
+    "index.html": "/pasirrisboys/index.html",
+    "static/css/main.e0400130.chunk.css.map": "/pasirrisboys/static/css/main.e0400130.chunk.css.map",
+    "static/js/2.36b78683.chunk.js.LICENSE.txt": "/pasirrisboys/static/js/2.36b78683.chunk.js.LICENSE.txt",
+    "static/media/chimin.64e11868.jpg": "/pasirrisboys/static/media/chimin.64e11868.jpg",
+    "static/media/junhui.536ab23a.jpg": "/pasirrisboys/static/media/junhui.536ab23a.jpg",
+    "static/media/vinson.bae49a2a.jpg": "/pasirrisboys/static/media/vinson.bae49a2a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e4adffba.js",
-    "static/js/2.4d4eff1a.chunk.js",
-    "static/css/main.6436b48c.chunk.css",
-    "static/js/main.ff4bc12b.chunk.js"
+    "static/js/runtime-main.2ab0aa8b.js",
+    "static/js/2.36b78683.chunk.js",
+    "static/css/main.e0400130.chunk.css",
+    "static/js/main.7ccf50cf.chunk.js"
   ]
 }
